@@ -1,0 +1,9 @@
+runs/
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# ignore large models except final one
+*.pt
+!models/acne_best.pt

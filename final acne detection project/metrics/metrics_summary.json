@@ -1,0 +1,15 @@
+{
+  "run_name": "acne_aug_map5095",
+  "best_weights": "/kaggle/working/runs/acne_aug_map5095/weights/best.pt",
+  "default_precision": null,
+  "default_recall": null,
+  "default_map50": null,
+  "default_map50_95": null,
+  "selected_conf": 0.25,
+  "selected_precision": 0.9718670076726342,
+  "selected_recall": 0.8755760368663594,
+  "selected_f1": 0.9212121212121211,
+  "target_precision": 0.85,
+  "target_recall": 0.85,
+  "pass_target": true
+}
